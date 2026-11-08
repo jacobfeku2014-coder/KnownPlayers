@@ -361,6 +361,14 @@
       "glow": true,
       "shipID": 42,
       "ufoID": 16
-    }
-  ]
-}
+    },
+    {
+      "name": "cosmiclutter"
+      "iconID": 35,
+      "color1": 92,
+      "color2": 52,
+      "glow": true,
+      "shipID": 103,
+      "ballID": 19,
+      "ufoID": 14,
+
